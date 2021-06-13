@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @idroy-dev
+- 👀 I’m interested in PHP, Laravel
+- 🌱 I’m currently learning Android
+- 📫 How to reach me idroy.dgp@gmail.com
